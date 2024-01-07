@@ -1,4 +1,4 @@
-# CogNiv2023
+# Final Project
 #
 #The idea of the following files is to create a code for two robots that will be the "waiters" at a restaurant.  They will be recieving orders to be delivered to the #tables.  They must use logical motion planning to create an optimal path to their targets, and once there, use the arm to hand the costumers their orders.  In order #to asses the opitmal paths for the two robots, an A* algorthem on a PRM plan was used.  With that, the code uses many functions to show the process of the motion #planning to the user.  The following is an explenation of each file:
 

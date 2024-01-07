@@ -45,6 +45,7 @@ To achieve the goal, it is assumed that once an autonomous crew is deployed on M
 ## Results and Conclusions
 
 Results show challenges in solving the PDDL part, but the Python script approximates energy intake over time. Conclusions highlight the complexity of the mission and the use of simplifications and relaxed assumptions to construct a simple model. The chosen method to solve this problem was with PDDL with another python script to approximate growth rate of the mission and, once stability is reached, a Python script to predict growth and energy absorption.
-![Alt Text](Results.png)
 
+
+![Alt Text](Results.png)
 This README provides an overview of the assignment, including the objectives, preliminary knowledge, formulas and equations, numerical assumptions, implementation plan, and conclusions.

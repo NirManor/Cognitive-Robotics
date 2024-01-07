@@ -48,4 +48,6 @@ Results show challenges in solving the PDDL part, but the Python script approxim
 
 ![Alt Text](Results.png)
 
+The covered surface of the sun in percentage through time in years with different distances of orbits from the sun. the distance is represented in 10^10 [m], the Time in years, Eff it the efficiency of each satellite in a specific orbit, and EforSatt is the energy absorbed in [Watt-month]
+
 This README provides an overview of the assignment, including the objectives, preliminary knowledge, formulas and equations, numerical assumptions, implementation plan, and conclusions.
